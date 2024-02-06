@@ -9,7 +9,7 @@
 	* 1.5. [Exercise 5](#Exercise5)
 	* 1.6. [Exercise 6](#Exercise6)
 	* 1.7. [Exercise 7](#Exercise7)
-* 2. [Grading](#Grading)
+
 
 <!-- vscode-markdown-toc-config
 	numbering=true
@@ -66,17 +66,7 @@ endpoint should return a JSON object with  the following shape:
 Create a function in `client.py` for each one of the previous exercises, calling
 the respective endpoint in the REST API.
 
-##  2. <a name='Grading'></a>Grading
 
-| **section**      | **grade**     |
-|--------------|-----------|
-| Exercises 1-5 | 1 point|
-| Exercise 6 | 1.5 points |
-| Exercise 7 | 1.5 points |
-| Everyone in the group participated | 0.5 points |
-| Overall quality* | 2 points |
-
-Max possible points: 10
 
 *: Here, I'll be grading that:
 1. endpoints return relevant statuscodes
